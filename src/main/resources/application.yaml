@@ -1,0 +1,6 @@
+server:
+  port: 8082
+  contextPath: /test
+security:
+  user:
+    password: password
